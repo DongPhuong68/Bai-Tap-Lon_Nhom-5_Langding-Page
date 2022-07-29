@@ -60,7 +60,7 @@
         width: 335px;
         margin: 0px 20px 0px 20px;
     }
-    /* __________________ */
+    /* ________________ */
     .section__articles-author {
         margin-left: 19px;
         display: block;
@@ -118,7 +118,7 @@
         margin: 19px 46px
     }
 
-    /* _________________________ */
+    /* _______________________ */
     .articles-introduce-1 {
         display: none;
     }
@@ -299,7 +299,7 @@
     .suggestion-eye{
         margin: -25px 154px 0px 155px;
     }
-    /* __________________________ */
+    /* ________________________ */
     .suggestion__articles{
         width: 375px;
     }
@@ -353,7 +353,7 @@
     }
 
     /* ------------------------------------
-    ________________SIGN_UP______________ */
+    _______________SIGN_UP_____________ */
     .Sign_up {
         display: flex;
         justify-content: center;
@@ -430,9 +430,8 @@
         line-height: 24px;
         border-color: black;
     }
-/* --------------------------- */
-/* ----------FOOTER--------------- */
-    /* _______________________ */
+
+    /* _____________________ */
     .footer{
         width: 375px;
         height: 456px;  
@@ -483,7 +482,7 @@
         height: 22.18px; 
         margin-left: 69.32px;
         margin-right: 69.31px;     
-        margin-top: 153.41px;
+        margin-top: 153.41;
     }
     .footer__body-text{
         width: 287px;
@@ -522,5 +521,4 @@
         margin-left: 98px;
         margin-top: 64px;
     }
-
 }
